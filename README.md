@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Carter👋
+
+Welcome to my GitHub! I am currently a junior Computer Science student working towards a Bachelor's of science.
+
+##I am currently 
 
 <!--
 **werlingC/werlingC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
