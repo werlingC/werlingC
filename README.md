@@ -12,3 +12,4 @@ While I have no certifications (yet) I am decently proficient with the following
 -C++
 -Java
 -Python
+-Assembly
