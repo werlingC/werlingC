@@ -1,15 +1,10 @@
 ## Hi there, I'm Carter👋
 
-I am a Computer Science major in my junior year. I am passionate about all things techy, but I enjoy software development the most
+I am a Computer Science major in my junior year. I am passionate about all things technology, but software development in my biggest passion.
 
-## What I am currently working on
-
-I am currently working on refreshing myself with C++. It has been a bit since I've used it frequently and would like to brush off some of the rust. I am attempting to make a simple game that is a turned based combat game, and relearning (and learning new things) various libraries and functions to make my implementations as smooth as possible.
-I have also just completed a python script for work that detects when there is an unopened email in Outlook and turns on a flashing light in the main production room. Because the machinary can be pretty hard, the light lets everyone know there is a new email. I accomplished this by reading the MAPI file that outlook uses to determine if there is an unread email. If so, it sends a signal to an arduino board. The arduino board then sends a signal to a relay switch to allow the light to turn on. The arduino board may seem redundant (and to some extent it is), but it was an easy way to interface with a windows desktop, and it serves as an additional level of protection between the switch and the computer, so in case of a power surge, it will fry the arduino board instead of the PC, since the arduino is much cheaper to replace.
-
-## Programming languages
-While I have no certifications (yet) I am decently proficient with the following languages:
--C++
--Java
--Python
--Assembly
+## Skills
+- C++
+- Java
+- Python
+- x86 Assembly
+- Bash
